@@ -1,0 +1,3 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/jvictornascimento/eureka-server
