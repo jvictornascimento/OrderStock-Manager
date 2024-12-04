@@ -1,3 +1,6 @@
 [submodule "eureka-server"]
 	path = eureka-server
 	url = https://github.com/jvictornascimento/eureka-server
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/jvictornascimento/auth-service
